@@ -1,187 +1,135 @@
 # Yakob Yakov  
-**Cloud & Data Platform Architect | Contract / Freelance**  
+Cloud & Data Platform Architect | Contract / Freelance  
 Prague, Czech Republic | EU Remote / On-site  
 
 ---
 
-## Summary
-System Architect with 10+ years of experience delivering complex cloud, data, and platform architectures across pharma, finance, industrial, and retail domains.
+## Profile
+Architect with 10+ years delivering cloud and data platforms in regulated and high-performance environments (pharma, finance, industrial, trading).
 
-Specialized in:
-- Stabilizing failing or high-risk projects  
-- Designing scalable cloud-native data platforms  
-- Delivering production-ready systems under regulatory and operational constraints  
+Brought in to:
+- Stabilize failing or high-risk data/platform initiatives  
+- Design and deliver production-grade architectures under real constraints  
+- Bridge business, engineering, and governance at senior stakeholder level  
 
-Track record of improving system efficiency by ~30% and reducing delivery timelines by ~20%.
+Operates at Lead Architect / Head of Platform / Fractional CTO level.
 
-Trusted to operate at CTO / VP level, translating business problems into executable architectures.
+Consistent track record of:
+- ~30% efficiency gains in platform performance and operations  
+- ~20% reduction in delivery timelines  
+- Turning fragmented systems into scalable, governed platforms  
 
 ---
 
-## Core Capabilities
+## Core Expertise
 - Cloud Architecture (Azure, AWS, GCP)  
 - Data Platforms (Databricks, Snowflake, Kafka, Dremio)  
 - Platform Engineering (Terraform, Kubernetes, CI/CD)  
-- Data Governance & Compliance (GxP, auditability, DR)  
-- System Design for Scale & Reliability  
-- Presales, Stakeholder Management, Delivery Leadership  
+- Data Governance (GxP, auditability, DR, compliance)  
+- System Design for Scale, Cost, and Reliability  
+- Technical Leadership & Stakeholder Alignment  
 
 ---
 
-## Professional Experience
-
-### EPAM Systems  
-**System Architect / Consultant**  
-_Oct 2022 – Present_
-
----
+## Selected Engagements
 
 ### Daiichi Sankyo Europe  
-**Lead Architect – Data Platform Transformation**
+**Lead Architect – Enterprise Data Platform (GxP)**  
 
-- Designed end-to-end enterprise data platform (SAP → Snowflake → dbt → Power BI)  
-- Built GxP-compliant architecture with auditability, validation, and traceability  
-- Defined Dev/UAT/Prod environments and promotion processes  
-- Implemented Infrastructure-as-Code and CI/CD pipelines for data products  
-- Established governance: RBAC, data quality, retention, DR strategies  
+- Owned architecture of end-to-end data platform (SAP → Snowflake → dbt → Power BI)  
+- Designed for GxP compliance: auditability, validation, traceability  
+- Established full SDLC (Dev/UAT/Prod), CI/CD, and IaC foundation  
+- Defined governance model: RBAC, data quality, retention, DR  
 
-**Result:** Delivered production-ready, compliant data platform for regulated workloads  
+**Impact:** Delivered production-ready regulated platform enabling compliant analytics at scale  
 
 ---
 
 ### STADA Arzneimittel AG  
-**Solution Architect – Pharma 4.0 / Unified Namespace**
+**Solution Architect – Pharma 4.0 / Unified Namespace**  
 
-- Designed Unified Namespace (UNS) architecture for manufacturing  
-- Integrated OT systems (factory floor) with IT/cloud platforms  
+- Designed Unified Namespace architecture bridging OT and IT systems  
 - Defined scalable data model and interoperability standards  
-- Established governance and rollout roadmap  
+- Established rollout and governance strategy for manufacturing data  
 
-**Result:** Enabled real-time operational analytics and Industry 4.0 capabilities  
+**Impact:** Enabled real-time operational analytics and Industry 4.0 capabilities  
 
 ---
 
 ### Trafigura  
-**Solution Architect – Trading Systems Optimization**
+**Solution Architect – Trading Data Platform (PoC)**  
 
-- Designed Dremio-based data platform PoC (on-prem, Kubernetes)  
-- Advised VP of Trading on system optimization strategy  
-- Delivered architecture enabling high-performance analytics  
+- Designed high-performance analytics platform using Dremio on Kubernetes  
+- Advised senior trading stakeholders on system architecture and optimization  
 
-**Result:** Improved decision-making speed and platform scalability  
+**Impact:** Increased decision-making speed and enabled scalable analytics foundation  
 
 ---
 
 ### Louis Dreyfus Company  
-**Architect – Optimization & Cloud Strategy**
+**Architect – Optimization Platform & Cloud Strategy**  
 
-**Optimization Platform**
-- Designed system solving Traveling Salesperson Problem (<4s runtime)  
-- Defined APIs and system architecture  
-- Led technical direction for engineering team  
+- Designed optimization system (TSP) achieving sub-4s runtime  
+- Defined APIs and system architecture for engineering delivery  
+- Assessed VMware estate and designed Azure migration strategy  
 
-**Result:** Delivered cost-efficient logistics optimization system  
-
-**Cloud Migration (VMware → Azure)**
-- Assessed VMware estate and licensing compliance  
-- Designed migration strategy and TCO comparison  
-- Evaluated alternative architectures  
-
-**Result:** Enabled cloud transformation with reduced cost footprint  
+**Impact:** Delivered cost-efficient optimization engine and reduced cloud TCO  
 
 ---
 
 ### Merck Sharp & Dohme  
-**Architect – Workflow Automation Platform**
+**Architect – Workflow Automation Platform**  
 
-- Designed system combining Web UI + Apache Airflow plugin  
-- Enabled non-technical users to build data pipelines visually  
-- Implemented RBAC and secure integration  
+- Designed platform combining Web UI with Airflow for pipeline orchestration  
+- Enabled non-technical users to build and manage data workflows  
+- Implemented secure RBAC and integration patterns  
 
-**Result:** Reduced engineering dependency and improved productivity  
+**Impact:** Reduced engineering dependency and accelerated data delivery  
 
 ---
 
 ### Procter & Gamble  
-**Architect – Industrial Analytics Platform (Presales + Design)**
+**Architect – Industrial Analytics (Presales & Design)**  
 
-- Designed real-time analytics platform for manufacturing & R&D  
-- Delivered architecture for predictive quality insights  
-- Supported bid and technical proposal  
+- Designed real-time analytics platform for manufacturing and R&D  
+- Contributed to technical strategy and bid delivery  
 
-**Result:** Enabled data-driven process optimization  
+**Impact:** Enabled predictive quality and process optimization use cases  
 
 ---
 
 ### Kiwi.com  
-**Lead Architect – Data Platform Assessment**
+**Lead Architect – Data Platform Assessment**  
 
-- Audited full GCP-based data platform  
-- Identified inefficiencies and automation opportunities  
+- Audited GCP-based data platform end-to-end  
+- Identified inefficiencies and automation gaps  
 - Reported directly to CTO  
 
-**Result:** Reduced operational overhead and improved scalability  
+**Impact:** Reduced operational overhead and improved scalability roadmap  
 
 ---
 
-### Deutsche Börse  
-**Consultant – Cloud Landing Zones**
-
-- Advised VP on improving cloud product delivery (GCP)  
-- Identified upsell opportunities and optimization strategies  
-
----
-
-### Hubbell Incorporated  
-**Architect – Power Grid Analytics**
-
-- Designed high-frequency fault detection system  
-- Enabled real-time grid monitoring and analytics  
-
----
-
-### VodafoneZiggo  
-**Architect – Platform Engineering**
-
-- Implemented Kubernetes + Airflow-based infrastructure  
-- Designed scalable workflow systems and CI/CD pipelines  
-
----
-
-### Permira  
-**Solution Architect / Delivery Manager**
-
-- Led migration to Databricks on AWS  
-- Implemented secure RBAC and data governance  
+### Additional Engagements
+- Deutsche Börse — Cloud landing zones advisory (GCP)  
+- Hubbell — Real-time power grid analytics platform  
+- VodafoneZiggo — Kubernetes + Airflow platform engineering  
+- Permira — Databricks migration and governance (AWS)  
 
 ---
 
 ## Earlier Experience
-
-### Avast (Jumpshot)
-- Built one of the largest Hadoop clusters in the Czech Republic  
-- Managed Kafka cluster (200+ nodes)  
-- Migrated 400+ physical servers across datacenters  
+- Avast (Jumpshot): Built large-scale Hadoop/Kafka infrastructure (200+ nodes)  
+- FedEx: Streaming analytics platform (12M records/day), ML pipelines  
+- Danone: Global Azure data platform (hub-and-spoke architecture)  
 
 ---
 
-### FedEx
-- Built streaming analytics platform (12M records/day)  
-- Designed ML pipelines for aviation maintenance  
-
----
-
-### Danone
-- Designed global Azure data platform (hub-and-spoke architecture)  
-
----
-
-## Technology Stack
-**Cloud:** Azure, AWS, GCP  
-**Data:** Databricks, Snowflake, Kafka, Airflow, Dremio  
-**Infra:** Terraform, Kubernetes, Docker  
-**Languages:** Python, Go, Bash, Java  
-**Observability:** Prometheus, Grafana, ELK  
+## Technology
+Cloud: Azure, AWS, GCP  
+Data: Databricks, Snowflake, Kafka, Airflow, Dremio  
+Infra: Terraform, Kubernetes, Docker  
+Languages: Python, Go, Bash, Java  
+Observability: Prometheus, Grafana, ELK  
 
 ---
 
@@ -190,6 +138,7 @@ English, German, French
 
 ---
 
-## Availability
-- Contract / Freelance (EU / Remote / On-site)  
-- Available for high-impact, short- to mid-term engagements  
+## Engagement Model
+- Contract / Freelance  
+- High-impact platform, data, and architecture engagements  
+- Available for short- and mid-term delivery (EU / Remote / On-site)
